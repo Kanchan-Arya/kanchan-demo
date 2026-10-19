@@ -15,6 +15,14 @@
 
 ---
 
+![First Repository](https://img.shields.io/badge/MY%20FIRST%20REPOSITORY-JULY2026%20%7C%20MY%20BEGINNING-efb4cc?style=for-the-badge&logo=github&logoColor=6D435A)
+
+> 🌱 **Created in July, 2026 — my very first step into GitHub!**
+>
+> This repository marks the beginning of my coding journey. It's where I started learning Git, GitHub, and how to share my work with the world. Every developer starts somewhere, and this is where my story began. 💗
+
+---
+
 ## 🙋🏻‍♀️ About Me
 
 Hi there! I'm **Kanchan Arya** 👋
